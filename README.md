@@ -14,3 +14,5 @@
 Используя следующий <a href=http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL>WSDL</a>, создала рабочую коллекцию в Postman, которую можно использовать для определения: валюты страны, полной информации о стране и информации о языке страны:
 
 * <a href=https://www.postman.com/katerina22/testing-soap-api/collection/wbjx60t/country-info>Country info</a>
+
+123
